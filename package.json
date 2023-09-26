@@ -1,0 +1,22 @@
+{
+  "name": "reactignite",
+  "version": "1.0.0",
+  "description": "practice parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuvelRaja/reactignite.git"
+  },
+  "author": "sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuvelRaja/reactignite/issues"
+  },
+  "homepage": "https://github.com/SamuvelRaja/reactignite#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
